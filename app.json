@@ -1,15 +1,15 @@
 {
     "name": "Save restricted content bot",
-    "description": "Telegram bot to save restricted content.",
+    "description": "Telegram Bot to forward restricted content.",
     "logo": "",
     "keywords": [
         "telegram",
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/raj2131/SaveResClone2",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/Save_Restricted_Content",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
